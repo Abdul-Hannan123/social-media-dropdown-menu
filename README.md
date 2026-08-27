@@ -67,9 +67,6 @@ While building this project, I practiced:
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Preview of my Project
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/social-media-dropdown-menu.git
+<img width="960" height="435" alt="result" src="https://github.com/user-attachments/assets/e3270502-b976-4de1-a20c-e86c41598e71" />
